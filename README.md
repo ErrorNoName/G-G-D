@@ -135,6 +135,11 @@ sudo pacman -S python-scapy
 
 Après avoir installé les dépendances système, activez votre environnement virtuel et installez les dépendances Python :
 
+apide
+ ```bash
+source create_venv.sh
+```
+Manuel
 ```bash
 python -m venv venv
 source venv/bin/activate
