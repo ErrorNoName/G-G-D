@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.3
+bs4==0.0.2
+PySocks==1.7.1
+scapy-python3==0.26
+soupsieve==2.6
+rich
