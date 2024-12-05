@@ -127,6 +127,7 @@ Pour résumer, voici les commandes à exécuter pour installer les dépendances 
 sudo pacman -S python-rich
 sudo pacman -S python-pysocks
 sudo pacman -S python-scapy
+sudo pacman -S python-beautifulsoup4
 ```
 
 ---
