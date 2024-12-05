@@ -47,7 +47,7 @@ Un script Python pour effectuer différentes types d'attaques de flood (HTTP, TC
 ### 1. Cloner le Dépôt
 
 ```bash
-git clone https://github.com/ErrorNoName/G-G-D
+git clone https://github.com/ErrorNoName/G-G-D.git
 ```
 
 N'hésitez pas à me faire savoir si vous avez besoin d'autres ajustements ou d'informations supplémentaires !
