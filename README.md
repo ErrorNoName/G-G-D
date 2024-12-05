@@ -56,7 +56,7 @@ N'hésitez pas à me faire savoir si vous avez besoin d'autres ajustements ou d'
 Après avoir installé les dépendances, vous pouvez exécuter le script :
 
 ```bash
-python UNSTABLE.py
+python GueCot.py
 ```
 
 Suivez les instructions à l'écran pour configurer et démarrer l'attaque.
@@ -100,7 +100,7 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 
 ### 3. Notes Supplémentaires
 
-- **Personnalisation du README** : Remplacez `https://github.com/votre-utilisateur/UnstableDDoS.git` par l'URL réelle de votre dépôt GitHub.
+- **Personnalisation du README** : Remplacez `https://github.com/votre-utilisateur/G-G-D.git` par l'URL réelle de votre dépôt GitHub.
 - **Licence** : Assurez-vous d'ajouter un fichier `LICENSE` approprié si vous souhaitez spécifier une licence pour votre projet.
 - **Sécurité** : Rappelez-vous toujours des implications légales et éthiques de l'utilisation de tels scripts.
 
